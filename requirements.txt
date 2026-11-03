@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+chromadb
+pypdf
+pandas
+openpyxl
+xlrd
